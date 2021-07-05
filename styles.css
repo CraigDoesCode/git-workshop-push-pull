@@ -1,0 +1,21 @@
+body {
+    text-align: center;
+    background-color: rgb(250, 208, 214);
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+table {
+    margin: auto;
+    border: 2px solid rgb(255, 174, 0);
+
+}
+thead {
+    background-color: rgb(255, 174, 0);
+}
+.code {
+    font-family: monospace;
+    background-color: lightgray;
+}
+.description {
+    text-align: left;
+    font-weight: lighter;
+}
